@@ -24,7 +24,7 @@
 									"var email = firstname + '.' + lastname + '@' + domain;",
 									"var user = firstname + '_' + lastname;",
 									"var password = firstname;",
-									"",
+									" ",
 									"pm.environment.set(\"EMAIL\", email);",
 									"pm.environment.set(\"USERNAME\", user);",
 									"pm.environment.set(\"PASSWORD\", password);",
